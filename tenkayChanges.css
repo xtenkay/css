@@ -179,15 +179,6 @@ html, body, a, abbr, acronym, address, applet, big, blockquote, body, caption, c
 	width: 30%;
 }
 
-
-
-//
-// 				New changes 24/07/18
-//
-
-
-
-
  .message-group .edit-message h2 .message-group .edit-message .avatar-large {
      display: none!important;
 }
@@ -217,7 +208,11 @@ html, body, a, abbr, acronym, address, applet, big, blockquote, body, caption, c
 
 .theme-dark .membersGroup-v9BXpm{
 	padding-top: 10px;
-	background-color:#111111;
+	background-color:#181818;
+}
+
+.theme-dark .members-1998pB{
+	background-color: #111111 !important;
 }
 
 /*everything else*/
