@@ -11,3 +11,7 @@ body {
 li.list-group-item.px-2.py-1 {
 	background-color: #212121;
 }
+
+.bg-dark{
+	background-image: linear-gradient(to bottom, #111111 0%, #111111 100%)
+}
