@@ -2,3 +2,12 @@
   color: #999;
   background-color: #111111;
 }
+
+.card-header{
+	background-color: linear-gradient(to bottom, #111111 0%, #181818 100%);
+}
+
+.col-md-6 border-bottom p-2,
+.li.list-group-item.px-2.py-1 {
+	background-color: #212121;
+}
