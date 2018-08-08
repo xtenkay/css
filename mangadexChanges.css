@@ -10,11 +10,14 @@ body {
 .p-2,
 li.list-group-item.px-2.py-1,
 .p-0,
-.reader-controls.col.row.no-gutters.flex-column.flex-nowrap {
+.reader-controls.col.row.no-gutters.flex-column.flex-nowrap,
+.modal-content,
+.dropdown-menu {
 	background-color: #212121;
 }
 
-#reader-controls-collapser{
+#reader-controls-collapser,
+.navbar-dark .navbar-brand{
 	background-color: #111111;
 }
 
