@@ -66,11 +66,6 @@
 	opacity:0.4;
 }
 
-.status-oxiHuE{
-	width:30% !important;
-	height:30% !important;
-}
-
 /* Avatar/UI tweaks */
 .theme-dark .membersGroup-3_dP5E {
     background: #0f0f0f;
@@ -171,13 +166,18 @@ html, body, a, abbr, acronym, address, applet, big, blockquote, body, caption, c
 	width: 90px;
 }
 
-.online-2S838R,
-.idle-3DEnRT,
-.dnd-1_xrcq,
-.offline-3qoTek{
-	height: 30% !important;
-	width: 30%;
+
+
+.theme-dark .members-1998pB{
+	background-color: #111111 !important;
 }
+
+//
+// 				New changes 24/07/18
+//
+
+
+
 
  .message-group .edit-message h2 .message-group .edit-message .avatar-large {
      display: none!important;
@@ -218,4 +218,11 @@ html, body, a, abbr, acronym, address, applet, big, blockquote, body, caption, c
 /*everything else*/
 .avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge {
     border-radius: 8%;
+}
+
+.status-oxiHuE.popout-2fzvxG.statusProfile-3ynqtt.avatarStatus-3Ay1VL,
+.status-oxiHuE.profile-ZOdGIb.statusProfile-3ynqtt
+{
+	width:30% !important;
+	height:30% !important;
 }
