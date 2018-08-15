@@ -19,9 +19,14 @@
  .dms-rcsEnV,
  .theme-dark .friendsOnline-_wi_fM,
  .guild-1EfMGQ,
- .guilds-1q_RqH.scroller,
- .theme-dark .messagesWrapper-3lZDfY{
+ .guilds-1q_RqH.scroller{
 	background-color: #111111 !important;
+}
+
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3,
+.theme-dark .messagesWrapper-3lZDfY,
+.container-PNkimc{
+	background-color: #111111 !important
 }
 
 .container-2Thooq{
