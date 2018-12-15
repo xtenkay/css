@@ -1,0 +1,72 @@
+/* This will automatically update any theme changes I make */
+@import url("https://rawgit.com/BakaTekku/Discord_Theme/master/theme.css");
+@import url("https://rawgit.com/xtenkay/css/master/tenkayChanges.css");
+
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3,
+.theme-dark .messagesWrapper-3lZDfY,
+.container-PNkimc,
+.theme-dark .title-3qD0b-,
+.theme-dark .container-2Thooq, .theme-light .container-2Thooq,
+.container-1UB9sr,
+.scroller-2FKFPG,
+.typing-2GQL18,
+.emojiPicker-3m1S-j .header-1nkwgG,
+.emojiPicker-3m1S-j .header-1nkwgG .search-bar,
+.emojiPicker-3m1S-j .header-1nkwgG,
+.emojiPicker-3m1S-j .category-2U57w6,
+.emojiPicker-3m1S-j .categories-1feg4n{
+	background-color: #111111 !important
+}
+
+.emojiPicker-3m1S-j .categories-1feg4n{
+	margin: 0;
+	padding:0 12px;
+}
+
+.theme-dark .inner-zqa7da{
+	background-color: #161616 !important;	
+}
+
+.large-3ChYtB{
+	width: 96px !important;
+	height: 96px !important;
+	border-radius: 50%;
+	margin-:10px;
+}
+
+.contentCozy-3XX413{
+	margin-left: 8.5em;
+}
+
+.containerCozyBounded-1rKFAn.containerCozy-jafyvG.container-1YxwTf{
+	min-height:125px;
+}
+
+.theme-dark .dividerEnabled-2TTlcf{
+	display: none;
+}
+
+.emoji.jumboable{
+	height:60px;
+	width:60px;
+}
+
+.inner-zqa7da.flex-1O1GKY.innerNoAutocomplete-1WpcVO{
+	margin-left: 0px;
+}
+
+.inner-zqa7da.flex-1O1GKY.innerNoAutocomplete-1WpcVO{
+	opacity:10%;
+}
+
+.status-3fQvEa,
+.status-oxiHuE{
+	height:10px !important;
+	width:10px!important;
+	border-radius:100%;
+}
+
+.embedContentInner-FBnk7v.markup-2BOw-j,
+.embedPill-1Zntps{
+	margin: 0px;
+}
