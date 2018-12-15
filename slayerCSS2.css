@@ -70,3 +70,32 @@
 .embedPill-1Zntps{
 	margin: 0px;
 }
+
+.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S,
+.theme-dark .menu-Sp6bN1{
+	background-color: #161616;
+}
+
+::placeholder, body, button, input, select, textarea{
+	font-family: Lato;
+}
+
+.contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,
+.contentHoveredText-2D9B-x,
+.content-20Aix8{
+	background-color: #070707;
+}
+
+.item-1GzJrl:hover{
+	background-color: #070707;
+}
+
+.theme-dark .messagesWrapper-3lZDfY .scroller-wrap ::-webkit-scrollbar-thumb{
+	background-color: #181818;
+    border-color: #161616;
+}
+
+.theme-dark .messagesWrapper-3lZDfY .scroller-wrap ::-webkit-scrollbar-track-piece{
+	background-color: #161616;
+    border-color: #212121;
+}
