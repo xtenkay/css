@@ -2005,28 +2005,6 @@ div[style^="border-radius: 2px; background-color: rgba(114, 137, 218, 0"] {
     background-color: rgba(0,0,0,.3);
 }
 
-/* Store */
-@media (min-width: 849px)
-.theme-dark .itemBackground-1jfD8p:before {
-    background: radial-gradient(ellipse at top,rgba(54,57,63,0),#18191c),-webkit-gradient(linear,left top,right top,from(#18191c),color-stop(40%,rgba(54,57,63,0)),color-stop(60%,rgba(54,57,63,0)),to(#18191c)),-webkit-gradient(linear,left bottom,left top,from(#18191c),color-stop(25%,rgba(54,57,63,0)));
-    background: radial-gradient(ellipse at top,rgba(54,57,63,0),#18191c),linear-gradient(90deg,#18191c 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 60%,#18191c),linear-gradient(0deg,#18191c 0,rgba(54,57,63,0) 25%);
-}
-.theme-dark .itemBackground-1jfD8p:before {
-    background: radial-gradient(ellipse at top,rgba(54,57,63,0),#18191c),-webkit-gradient(linear,left top,right top,from(#18191c),color-stop(40%,rgba(54,57,63,0)),color-stop(60%,rgba(54,57,63,0)),to(#18191c)),-webkit-gradient(linear,left bottom,left top,color-stop(10%,#18191c),color-stop(70%,rgba(54,57,63,0)));
-    background: radial-gradient(ellipse at top,rgba(54,57,63,0),#18191c),linear-gradient(90deg,#18191c 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 60%,#18191c),linear-gradient(0deg,#18191c 10%,rgba(54,57,63,0) 70%);
-}
-.theme-dark .applicationStore-1pNvnv {
-    background-color: #18191c;
-    box-shadow: inset 16px 0px 16px -16px rgba(0,0,0,0.8);
-}
-.theme-dark .tileWrapper-2khh-w {
-    background-color: #121316;
-}
-.theme-dark .applicationTile-1Goy1W {
-    background-color: #121316;
-}
-
-
 /* Server Name Header */
  .container-2Rl01u,
  .scrollerWrap-2lJEkd,
@@ -2118,7 +2096,7 @@ html, body, a, abbr, acronym, address, applet, big, blockquote, body, caption, c
     mask: none !important;
 }
 
- ..avatar-17mtNa {
+ .avatar-17mtNa {
      -webkit-border-radius: 6px !important;
      border-radius: 50px !important;
 }
