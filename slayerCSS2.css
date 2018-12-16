@@ -76,10 +76,6 @@
 	background-color: #161616;
 }
 
-::placeholder, body, button, input, select, textarea{
-	font-family: Lato;
-}
-
 .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,
 .contentHoveredText-2D9B-x,
 .content-20Aix8{
@@ -98,4 +94,11 @@
 .theme-dark .messagesWrapper-3lZDfY .scroller-wrap ::-webkit-scrollbar-track-piece{
 	background-color: #161616;
     border-color: #212121;
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v11/v0SdcGFAl2aezM9Vq_aFTQ.ttf) format('truetype');
 }
