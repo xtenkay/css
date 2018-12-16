@@ -22,7 +22,8 @@
 .theme-dark .headerBar-UHpsPw,
 .theme-dark .body-SKIE6r,
 .theme-dark .header-1RC2Wb,
-.news-2GDtLJ{
+.news-2GDtLJ,
+.theme-dark .topSectionNormal-2-vo2m{
 	background-color: #111111 !important
 }
 
@@ -31,7 +32,9 @@
 	padding:0 12px;
 }
 
-.theme-dark .inner-zqa7da{
+.theme-dark .inner-zqa7da,
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6,
+.theme-dark .headerNormal-T_seeN{
 	background-color: #161616 !important;	
 }
 
@@ -86,7 +89,10 @@
 
 .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,
 .contentHoveredText-2D9B-x,
-.channel-2QD9_O.selected-1HYmZZ a{
+.channel-2QD9_O.selected-1HYmZZ a,
+.theme-dark .member-3W1lQa:hover .content-OzHfo4,
+.autocomplete-1vrmpx,
+.autocomplete-i9yVHs{
 	background-color: #070707;
 }
 
@@ -102,6 +108,10 @@
 .theme-dark .messagesWrapper-3lZDfY .scroller-wrap ::-webkit-scrollbar-track-piece{
 	background-color: #161616;
     border-color: #212121;
+}
+
+.theme-dark .markup-2BOw-j{
+	color: #eeeeee;
 }
 
 @font-face {
